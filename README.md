@@ -38,7 +38,7 @@ I'm deeply focused on learning programming logic, algorithms, **Software Enginee
 - 🏗️ **Academic & Web Applications**
 - ⚡ **Performance & Code Optimization**
 - 🧩 **Data Structures & Algorithms**
-- 🔐 ** Web**
+- 🔐 **Web**
 - 🗄️ **Database  & SQL**
 - 🤖 **IoT Systems & Automation**
 - 🎓 **Continuous Learning & Problem Solving**
